@@ -1,0 +1,5 @@
+按键板物料清单				
+序号	数量	位号	型号	封装
+2	1	J1	HEADER 8	8PIN白座
+3	1	J2	HEADER 5	5PIN白座
+4	4	SW1,SW2,SW3,SW4	SW PUSHBUTTON_0	按键
